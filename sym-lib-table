@@ -1,4 +1,4 @@
 (sym_lib_table
-  (lib (name EricWeeks_symbols)(type Legacy)(uri https://github.com/weekscorp/EricWeeksLib/EricWeekslib.lib)(options "")(descr ""))
+  (lib (name EricWeeks_symbols)(type Legacy)(uri https://github.com/weekscorp/EricWeeksLib/EricWeekslib.lib)(options "allow_pretty_writing_to_this_dir")(descr ""))
   )
   
